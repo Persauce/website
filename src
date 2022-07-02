@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title></title>
+</head>
+<body bgcolor="#860BD7">
+  <h1><center>Dave Persaud</center></h1><br>
+  <center><img src = "https://lh6.googleusercontent.com/XIhDi0bnTrmIlfh3w8yXUa7U3LD1AzpgvK10q9KTbfBmSj9mHZ3cMVu4ckuflkz7eECUy2i5GL7OoK3eqdmMwnmgNhWpO43AgoKCH6qDoMouvL7sSves2Vo7aIGZB4kYQg=w1280" height = "240" width = "240"/><center>
+  <ul>
+      <center>
+    <li><a href="#introduction"> Introduction</a></li>
+      <li><a href="#aboutme"> about me</a></li>
+        <li><a href="#socials"> socials</a></li>
+    </center>
+    </ul>
+  <div id="introduction">
+    <h2><center>My Story</center></h2>
+    <p> <center>It all started in a semi small town named Bloomfield. </center></p>
+    <center><a href="https://www.google.com/maps/place/Bloomfield,+NJ/@40.8084832,-74.2222784,13z/data=!3m1!4b1!4m5!3m4!1s0x89c2556c1f09d441:0xc34400ebfb0706a1!8m2!3d40.8067546!4d-74.1854209" target="_blank">Bloomfield</a></center>
+    <p><center>At first, it was pretty bad, hard to socialize with people who I cannot get along with at all. But throughout time, I found the right people, ones who I can depend on forever. Though I am still growing, I know I have friends who will support me no matter what. </center></p>
+
+</body>
+
+</html>
